@@ -181,15 +181,19 @@
         <img src="" alt="Entrega" class="imagen" id="imagen" style="display: none;">
     </div>
 
+ 
     <script>
         function mostrarImagen() {
             var codigo = document.getElementById("codigo").value;
             if (codigo === "3R0W0FLW0177") {
                 document.getElementById("mensaje").style.display = "none";
-                document.getElementById("imagen").src = "xcccc.png"; // C:\Users\gloria\Desktop
+                document.getElementById("imagen").src = "xcccc.png"; // Coloca aquí la ruta de la imagen de entrega
                 document.getElementById("imagen").style.display = "block";
             } else {
                 document.getElementById("mensaje").innerText = "El código ingresado no es válido. Por favor, inténtelo de nuevo.";
-           
-    
-  
+            }
+        }
+    </script>
+</body>
+</html>
+
