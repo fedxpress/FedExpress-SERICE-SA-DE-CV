@@ -56,7 +56,7 @@
 </head>
 <body>
     <div class="container">
-        <img src="avion.png" alt="<!DOCTYPE html>
+       
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -114,7 +114,7 @@
 </head>
 <body>
     <div class="container">
-        <img src="avion.png" alt="<!DOCTYPE html>
+        
 <html lang="es">
 <head>
     <meta charset="UTF-8">
